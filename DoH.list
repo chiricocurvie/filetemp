@@ -23,3 +23,10 @@ https://arashi-us.doh.pp.ua/dns-query ,ArashiDNS-TestUS
 https://doh.xfinity.com/dns-query ,Comcast
 https://DoH.powerdns.org ,PowerDNS
 https://DoH.opendns.com/dns-query ,opendns
+https://i.passcloud.xyz/dns-query ,IQDNS
+https://a.passcloud.xyz/dns-query ,（Anycast 推荐 智能默认地址）
+https://a.passcloud.xyz/cdn ,（ CDN 加速 推荐）
+https://a.passcloud.xyz/hk ,（香港 推荐）
+https://a.passcloud.xyz/am ,（澳门）
+https://a.passcloud.xyz/us ,（美国）
+https://a.passcloud.xyz/sz ,（深圳）
